@@ -70,6 +70,7 @@ Envoie vaccances
 Par un joli lundi matin ensoleillé
 
 
+
 Des matrices à spliter, les threads sont armés,
 Speed up garanti, j’vais pas ralentir, jamais !
 
@@ -85,7 +86,14 @@ Problème de branches faut tout débrancher
 =======
 Bonsoir non
 Bonjour
+<<<<<<< HEAD
+Bonjour encore
+=======
 >>>>>>> 75c67c58f2d79577a3214a24a79d5768ebaf3a64
+>>>>>>> 182e2532a4c94a282fcbb32c9ebd80ca3245591f
+
+
+Sous le voile du matin, le silence s’efface
 
 # Idée pour la fin du couplet
 
