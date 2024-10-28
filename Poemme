@@ -1,5 +1,6 @@
 Titre
 
+<<<<<<< HEAD
 Des alexandrins? 
 
 
@@ -8,6 +9,10 @@ Dans la forêt des versions, on ne peut se lasser
 Les diff pour résoudre les conflits
 Permettent un travail accompli
 
+=======
+
+Des alexandrins?
+>>>>>>> 47baf99c21a020000051b79782e844ed1f8052d5
 
 Dans le ciel, l’étoile brille,
 Douce lueur, ombre qui scintille.
@@ -30,8 +35,16 @@ Telle une prose, elle s'impose
 Un souffle léger, un mumure doux
 Qui colore le monde d'un regard flou
 
+Bonjour, j'ai pas d'idées.
 
+
+=======
+=======
 Par un joli lundi matin ensoleillé
+
+
+Des matrices à spliter, les threads sont armés,
+Speed up garanti, j’vais pas ralentir, jamais !
 
 
 J'ai pas d'idées désolé
@@ -41,5 +54,9 @@ Bonjour
 # Idée pour la fin du couplet
 
 Là c'est la fin de mon couplet
+<<<<<<< HEAD
 Là c'est terminé
 
+=======
+Là c'est terminé
+>>>>>>> 47baf99c21a020000051b79782e844ed1f8052d5
