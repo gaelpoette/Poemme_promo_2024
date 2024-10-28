@@ -1,14 +1,29 @@
 Titre
 
+<<<<<<< HEAD
 Des alexendrins? 
 
+=======
+<<<<<<< HEAD
+Des alexandrins? 
+
+
+Branches multiples, chemins entrelacés,
+Dans la forêt des versions, on ne peut se lasser
+Les diff pour résoudre les conflits
+Permettent un travail accompli
+
+=======
+
+Des alexandrins?
+>>>>>>> 47baf99c21a020000051b79782e844ed1f8052d5
+>>>>>>> 016f18792f0779640ab3537a3d49c28a8ac96482
 
 Dans le ciel, l’étoile brille,
 Douce lueur, ombre qui scintille.
 Le vent murmure au creux des bois,
 Un secret que l’aube emporte en soi.
  
-Des alexandrins? 
 
 
 Bien dormir:
@@ -30,7 +45,10 @@ Qui colore le monde d'un regard flou
 Bonjour, j'ai pas d'idées.
 
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 016f18792f0779640ab3537a3d49c28a8ac96482
 Par un joli lundi matin ensoleillé
 
 
@@ -46,5 +64,14 @@ Bonjour
 # Idée pour la fin du couplet
 
 Là c'est la fin de mon couplet
+<<<<<<< HEAD
 Là c'est terminé
 
+=======
+<<<<<<< HEAD
+Là c'est terminé
+
+=======
+Là c'est terminé
+>>>>>>> 47baf99c21a020000051b79782e844ed1f8052d5
+>>>>>>> 016f18792f0779640ab3537a3d49c28a8ac96482
